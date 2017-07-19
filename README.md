@@ -116,3 +116,4 @@ Licensed under [StealItPl 1.1](https://github.com/whs/whs.github.com/blob/master
 - Code portions from [project menome](http://menome.in.th) and [twitteroauth.php](https://github.com/abraham/twitteroauth)
 - The keyframe approach is inspired from [Synchtube](http://synchtube.com).
 - Anime streaming is inspired from [/r/clannaddiscussion](http://www.reddit.com/r/clannaddiscussion).
+- started but not finished by Hi Focused Videography (http://www.hifocused.com).
